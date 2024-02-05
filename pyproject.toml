@@ -6,7 +6,7 @@ authors = ["Abhijeet pal <abhijeetpal321@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-fastapi = "^0.95.1"
+fastapi = "^0.109.1"
 uvicorn = "^0.22.0"
 
 [tool.poetry.dev-dependencies]
